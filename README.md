@@ -32,7 +32,7 @@ The model uses transfer learning with a pre-trained CNN from PyTorch’s model l
 
 ## Exploratory Data Analysis
 Before training the model, the dataset is explored to understand its distribution. Here’s a visualization of the number of cancerous vs. non-cancerous images in the dataset:
-
+![image](https://github.com/user-attachments/assets/6ac17b94-48cd-4faa-9141-8d349e8ab7cc)
 
 ## Results
 The final trained model is evaluated based on the AUC score, which measures its ability to distinguish between cancerous and non-cancerous pathology images.
